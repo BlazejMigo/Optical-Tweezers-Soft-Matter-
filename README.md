@@ -70,6 +70,12 @@ Python libraries used in the analysis include:
 
 ---
 
+## License
+
+The code in this repository is released under the MIT License.
+
+The project report remains the intellectual property of the author and should not be reproduced without permission.
+
 # Author
 
 Blazej Migo  
